@@ -9,5 +9,5 @@ In this video, I am demonstrating how the 2048 game (container based) can be dep
 4. Create a Load Balancer service (ingress controller service) so that the game app can be accessed from outside using the Load balancer’s DNS name
 
 
-Notes
+Note:
 Please note that the EKS cluster is not free. So, there will be a nominal charge if you keep it open for a couple of hours. Besides, you will be using t3.medium EC2 in the node group. So, there will be some nominal charge for that resource as well.
